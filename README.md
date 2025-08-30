@@ -82,6 +82,3 @@ def lambda_handler(event, context):
         return {"statusCode": 500, "body": json.dumps("Error: " + str(e))}
 
 ---
-
-## 👨‍💻 About Me
-I’m a passionate cloud enthusiast ☁️ who loves building hands-on projects 🔧, exploring AWS services 🚀, and constantly learning to improve my DevOps & cloud engineering journey 🌍✨.
